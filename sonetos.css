@@ -1,0 +1,55 @@
+/* Creado por Ángel Hernández Ortiz. Última modificación 02/01/2019 */
+body{
+   background: url( fondos/corazon-1.svg ) repeat-y top left, url( fondos/corazon-2.svg ) repeat-y top right;
+   background-size: 150px;
+   text-align: center;
+   font-family: sans-serif;
+   font-size: 125%;
+}
+
+h1 {
+    text-transform: uppercase;
+    font-size: 160%;
+}
+
+article.imagen1 {
+    background: url( fondos/manchas.png);
+    border: black 2px solid;
+    color:white;
+    font-weight: bold;
+    margin-left: 12%;
+    margin-right: 12%;
+    margin-bottom: 1%;
+}
+
+article.imagen2{
+    background: url( fondos/fuego.svg ) no-repeat bottom right, url( fondos/fuego.svg ) no-repeat bottom left, url( fondos/tallos.jpg); 
+    border: black 2px solid;
+    color:yellow;
+    font-weight: bold;
+    margin-left: 12%;
+    margin-right: 12%;
+    margin-bottom: 1%;
+}
+
+article.imagen3 {
+    background: url( fondos/ojo.svg ) no-repeat center, url( fondos/hexagonos.jpg);
+    border: black 2px solid;
+    color:darkred;
+    font-weight: bold;
+    margin-left: 12%;
+    margin-right: 12%;
+    margin-bottom: 1%;
+}
+
+article.imagen4 {
+    background: url( fondos/caballo.svg)  repeat-x bottom, url( fondos/estrellas.png);
+    background-size: 10%;
+    border: black 2px solid;
+    color:darkgreen;
+    font-weight: bold;
+    margin-left: 12%;
+    margin-right: 12%;
+    margin-bottom: 1%;
+    padding-bottom: 3%;
+}
